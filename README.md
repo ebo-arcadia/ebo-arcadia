@@ -5,21 +5,22 @@ Talented full-Stack software developer with a background in JavaScript and Ruby 
 Passionate about leveraging my software development skills to build world-class applications to enrich lives. Highly motivated with learning and applying the lastest software development trends and technologies.
 
 ## Projects
-* EnjoYou
+* EnjoYou | [Demo](https://youtu.be/FjKkv2cDd1I)
 ❤️ An entertainment web app using public API to display books, videos, and movies powered by React.js and Rails API. It helps users to easily search and view content details
 
-* Orangize-it
+* Orangize-it | [Demo](https://youtu.be/olIQ9_muGMU)
 📁 A single web page where a user can manage many things, such as organizing events, creating new notes, managing contacts, and more
 
-* Market Place
+* Market Place | [Demo](https://youtu.be/7ZG2bdF2zAU)
 🏡 A platform where property sellers can post properties for sale, manage offers and buyers can view properties information and make offers
 
 ## Contact Me
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
+[LinkedIn](https://www.linkedin.com/in/yibolime/)
+[Blog](https://yiboli-coding.medium.com/build-a-web-app-with-react-js-rails-74155e112531)
+
 
 ## Skills
-Add more general information about project. What the purpose of the project is? Motivation?
+JavaScript | React | Redux | Rails | SQL | Sinatra | Ruby | TypeScript | Node.js | AJAX | HTML5 | CSS
 
 <!---
 ebo-lee/ebo-lee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
