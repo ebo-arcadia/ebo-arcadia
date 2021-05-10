@@ -15,7 +15,7 @@ Passionate about leveraging my software development skills to build world-class 
 
 * Market Place | [Demo](https://youtu.be/7ZG2bdF2zAU)
 
-🏡 A platform where property sellers can post properties for sale, manage offers and buyers can view properties information and make offers
+🏡 A platform where property sellers can post properties for sale, manage offers; buyers can view properties detail and make offers
 
 ## Contact Me
 * [LinkedIn](https://www.linkedin.com/in/yibolime/)
