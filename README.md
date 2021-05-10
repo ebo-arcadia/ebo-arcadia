@@ -6,17 +6,17 @@ Passionate about leveraging my software development skills to build world-class 
 
 ## Projects
 * EnjoYou | [Demo](https://youtu.be/FjKkv2cDd1I)
-❤️ An entertainment web app using public API to display books, videos, and movies powered by React.js and Rails API. It helps users to easily search and view content details
+*❤️ An entertainment web app using public API to display books, videos, and movies powered by React.js and Rails API. It helps users to easily search and view content details
 
 * Orangize-it | [Demo](https://youtu.be/olIQ9_muGMU)
-📁 A single web page where a user can manage many things, such as organizing events, creating new notes, managing contacts, and more
+*📁 A single web page where a user can manage many things, such as organizing events, creating new notes, managing contacts, and more
 
 * Market Place | [Demo](https://youtu.be/7ZG2bdF2zAU)
-🏡 A platform where property sellers can post properties for sale, manage offers and buyers can view properties information and make offers
+*🏡 A platform where property sellers can post properties for sale, manage offers and buyers can view properties information and make offers
 
 ## Contact Me
-[LinkedIn](https://www.linkedin.com/in/yibolime/)
-[Blog](https://yiboli-coding.medium.com/build-a-web-app-with-react-js-rails-74155e112531)
+* [LinkedIn](https://www.linkedin.com/in/yibolime/)
+* [Blog](https://yiboli-coding.medium.com/build-a-web-app-with-react-js-rails-74155e112531)
 
 
 ## Skills
