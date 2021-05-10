@@ -1,8 +1,14 @@
-- 😃 Hi, I’m Ebo (Yibo)😃
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning how to code
-- 💞️ I’m looking to collaborate on a team project
-- 📫 How to reach me email, cellphone, slack, LinkedIn. You name it!
+# 💻 Hello, I'm Ebo!😃 
+
+
+## Projects
+Add more general information about project. What the purpose of the project is? Motivation?
+
+## Contact Me
+Add more general information about project. What the purpose of the project is? Motivation?
+
+## Skills
+Add more general information about project. What the purpose of the project is? Motivation?
 
 <!---
 ebo-lee/ebo-lee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
