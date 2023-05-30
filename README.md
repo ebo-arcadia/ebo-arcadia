@@ -24,7 +24,7 @@ Passionate about leveraging my software development skills to build world-class 
 
 
 ## Skills
-JavaScript | React | Redux | Rails | SQL | Sinatra | Ruby | TypeScript | Node.js | AJAX | HTML5 | CSS
+Angular | Python | TypeScript | JavaScript | React | Redux | Rails | SQL | Sinatra | Ruby | Node.js | AJAX | HTML5 | CSS
 
 <!---
 ebo-lee/ebo-lee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
