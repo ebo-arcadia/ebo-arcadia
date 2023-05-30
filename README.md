@@ -24,12 +24,12 @@ Passionate about leveraging my software development skills to build world-class 
 
 
 ## Skills
-Programming language: TypeScript | JavaScript | Python | | SQL | Ruby
-Frontend: Angular | React | Redux | AJAX | HTML5 | CSS
-backend: CURD API | Rails | Sinatra | Node.js
-Security: OuAuth2 | JWT
-Database: AWS Dynamo DB | PostgreSQL | Materialized View | View
-Test: Pytest | Features
+* Programming language: TypeScript | JavaScript | Python | | SQL | Ruby
+* Frontend: Angular | React | Redux | AJAX | HTML5 | CSS
+* backend: CURD API | Rails | Sinatra | Node.js
+* Security: OuAuth2 | JWT
+* Database: AWS Dynamo DB | PostgreSQL | Materialized View | View
+* Test: Pytest | Features
 
 <!---
 ebo-lee/ebo-lee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
