@@ -29,6 +29,7 @@ Passionate about leveraging my software development skills to build world-class 
 * backend: CURD API | Rails | Sinatra | Node.js
 * Security: OuAuth2 | JWT
 * Database: AWS Dynamo DB | PostgreSQL | Materialized View | View
+* CI/CD: AWS | Bamboo | GitBucket
 * Test: Pytest | Features
 
 <!---
